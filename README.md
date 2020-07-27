@@ -1,5 +1,5 @@
 # expense-tracker
 
 
-client-side : React
-back-end : MongoDB, Apollo
+<em>client-side</em> : React <br />
+<em>back-end</em> : MongoDB, Apollo
